@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepages": "https://aleksandrprime.github.io/todoReact",
+  "homepages": "https://aleksandrprime.github.io/todoReact/build",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
